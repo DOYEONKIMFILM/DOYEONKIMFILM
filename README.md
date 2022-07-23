@@ -2,7 +2,6 @@
 <h3><p align="center">Hi👋, I'm Doyeon!😊</p></h3>
 <hr>
 <h3><p align="center">💻 Tech Stack 💻</p></h3>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <hr>
 
 
