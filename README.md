@@ -1,9 +1,6 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=HELLO,%20WORLD!&desc=Yeon's%20Github&descAlign=68&fontAlignY=40&align=center)
 
 <div align=center>
-  <h3>Hi👋, I'm Doyeon!😊</h3>
-  
-
   <h3>💻 Tech Stack 💻</h3>
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
