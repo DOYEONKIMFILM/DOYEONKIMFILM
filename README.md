@@ -3,7 +3,7 @@
 <hr>
 <h3><p align="center">💻 Tech Stack 💻</p></h3>
 <hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOYEONKIMFILM&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
 
 
 
@@ -11,5 +11,5 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&align=center)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&align=center)
 
