@@ -2,7 +2,7 @@
 
 <div align=center>
 <h3>Hi👋, I'm Doyeon!😊</h3>
-<hr>
+* * *
 <h3>💻 Tech Stack 💻</h3>
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-
+* * *
 
 
 <hr>
