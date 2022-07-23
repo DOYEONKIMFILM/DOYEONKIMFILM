@@ -8,8 +8,8 @@
 
 
 
-//조회수
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2337DB77&title_bg=%239DE5B8&icon=&icon_color=%23E7E7E7&title=HIT&edge_flat=false)](https://hits.seeyoufarm.com)
-//푸터
+
+<p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2337DB77&title_bg=%239DE5B8&icon=&icon_color=%23E7E7E7&title=HIT&edge_flat=false"/></a></p>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&align=center)
 
