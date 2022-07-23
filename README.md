@@ -3,7 +3,7 @@
 <hr>
 <h3><p align="center">💻 Tech Stack 💻</p></h3>
 <hr>
-![DOYEONKIMFILM's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOYEONKIMFILM&show_icons=true&theme=dark)  
+![DOYEONKIMFILM's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoYeon KIM&show_icons=true&theme=dark)  
 
 
 
