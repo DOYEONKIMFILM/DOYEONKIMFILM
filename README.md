@@ -4,7 +4,7 @@
 <h3><p align="center">💻 Tech Stack 💻</p></h3>
 <hr>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=impact9604@naver.com)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimdoyeonne@gmail.com)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
