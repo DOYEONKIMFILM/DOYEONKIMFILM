@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <hr>
+![DOYEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOYEONKIMFILMa&show_icons=true&theme=radical)
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDOYEONKIMFILM%2Fhit-counter&count_bg=%23AAF5CA&title_bg=%23B1E5B1&icon=&icon_color=%23E7E7E7&title=HIT&edge_flat=false"/></a>
 
